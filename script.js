@@ -20,7 +20,7 @@ const DATA = {
   portraitCaption: "Studio, late afternoon",
 
   contactNote: "Whether it's a logo, a poster, or a story that needs telling — I'd love to hear about it.",
-  emailHref: "mailto:hello@example.com",
+  emailHref: "mailto:sheehaanulislam@gmail.com",
   emailLabel: "Email me",
   footerRole: "Designer · Creator · Storyteller",
 
